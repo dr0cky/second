@@ -1,0 +1,10 @@
+D:\second\moe\bin\Debug\moe.exe.config
+D:\second\moe\bin\Debug\moe.exe
+D:\second\moe\bin\Debug\moe.pdb
+D:\second\moe\obj\Debug\moe.csproj.AssemblyReference.cache
+D:\second\moe\obj\Debug\moe.Form1.resources
+D:\second\moe\obj\Debug\moe.Properties.Resources.resources
+D:\second\moe\obj\Debug\moe.csproj.GenerateResource.cache
+D:\second\moe\obj\Debug\moe.csproj.CoreCompileInputs.cache
+D:\second\moe\obj\Debug\moe.exe
+D:\second\moe\obj\Debug\moe.pdb
